@@ -1,0 +1,15 @@
+C:\Users\beezy\source\repos\TotpMob\TotpMob\TotpMob\bin\Debug\netstandard2.0\TotpMob.deps.json
+C:\Users\beezy\source\repos\TotpMob\TotpMob\TotpMob\bin\Debug\netstandard2.0\TotpMob.dll
+C:\Users\beezy\source\repos\TotpMob\TotpMob\TotpMob\bin\Debug\netstandard2.0\TotpMob.pdb
+C:\Users\beezy\source\repos\TotpMob\TotpMob\TotpMob\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\beezy\source\repos\TotpMob\TotpMob\TotpMob\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\beezy\source\repos\TotpMob\TotpMob\TotpMob\obj\Debug\netstandard2.0\TotpMob.csproj.CoreCompileInputs.cache
+C:\Users\beezy\source\repos\TotpMob\TotpMob\TotpMob\obj\Debug\netstandard2.0\TotpMob.AssemblyInfoInputs.cache
+C:\Users\beezy\source\repos\TotpMob\TotpMob\TotpMob\obj\Debug\netstandard2.0\TotpMob.AssemblyInfo.cs
+C:\Users\beezy\source\repos\TotpMob\TotpMob\TotpMob\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\beezy\source\repos\TotpMob\TotpMob\TotpMob\obj\Debug\netstandard2.0\TotpMob.csproj.CopyComplete
+C:\Users\beezy\source\repos\TotpMob\TotpMob\TotpMob\obj\Debug\netstandard2.0\TotpMob.dll
+C:\Users\beezy\source\repos\TotpMob\TotpMob\TotpMob\obj\Debug\netstandard2.0\TotpMob.pdb
+C:\Users\beezy\source\repos\TotpMob\TotpMob\TotpMob\obj\Debug\netstandard2.0\TotpMob.csprojAssemblyReference.cache
+C:\Users\beezy\source\repos\TotpMob\TotpMob\TotpMob\bin\Debug\netstandard2.0\TOTP_Framework1.dll
+C:\Users\beezy\source\repos\TotpMob\TotpMob\TotpMob\bin\Debug\netstandard2.0\TOTP_Framework1.pdb
